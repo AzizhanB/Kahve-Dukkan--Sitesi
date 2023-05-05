@@ -1,0 +1,230 @@
+.govde {
+    background-color: #ffffff;
+    margin: 0%;
+    padding: 0%;
+
+}
+
+.ust {
+    background-color: #003a36;
+    margin: 0%;
+    padding: 0%;    
+}
+
+.logo {
+    margin-top: 1%;
+    margin-left: 1%;
+    vertical-align: middle;
+}
+
+
+.l1 {
+    font-size: 20px;
+    padding-left: 1%;
+    vertical-align: middle;
+    padding-top: 1%;
+
+}
+
+.l2 {
+    font-size: 20px;
+    padding-left: 1%;
+    vertical-align: middle;
+
+}
+
+.l3 {
+    font-size: 20px;
+    padding-left: 1%;
+    vertical-align: middle;
+
+}
+
+.l4 {
+    font-size: 20px;
+    padding-left: 1%;
+    vertical-align: middle;
+}
+
+.l5 {
+    font-size: 20px;
+    padding-left: 1%;
+    vertical-align: middle;
+
+}
+
+.l6 {
+    font-size: 20px;
+    padding-left: 1%;
+    vertical-align: middle;
+}
+
+.giris {
+    width: 3%;
+    height: 3%;
+    float: right;
+    margin-top: -8%;
+    margin-right: 2%;
+    
+    
+}
+
+
+* {
+    box-sizing: border-box;
+}
+
+.example {
+   vertical-align: middle;
+    margin-top: 2%;
+    padding-top: 2%;
+    color: white;
+    padding-left: 1%;
+
+}
+
+form.example input[type=text] {
+    vertical-align: middle;
+    padding-left: 1%;
+    font-size: 17px;
+    border: 1px solid white;
+    width: 80%;
+    background: #38645c;
+    margin-left: 200%;
+    margin-top: -64%;
+    border-radius: 12px;
+}
+
+.ortasol {
+    margin-left: 10%;
+    float: left;
+    width: 30%;
+}
+
+.ortasag {
+    float: right;
+    margin-right: 10%;
+    width: 50%;
+}
+
+.ortaust {
+    margin-left: 10%;
+}
+
+.i1{
+    width: 70%;
+}
+
+.i2 {
+    width: 70%;
+}
+
+.i3 {
+    width: 70%;
+}
+
+.i4 {
+    width: 70%;
+}
+
+.i5 {
+    width: 91%;
+}
+
+.i6 {
+    width: 30%;
+    height: 30%;
+}
+
+.i7 {
+    width: 30%;
+    height: 30%;
+}
+
+.i8 {
+    width: 30%;
+    height: 30%;
+}
+
+.i9 {
+    width: 30%;
+    height: 30%;
+}
+
+.i10 {
+    width: 30%;
+    height: 30%;
+}
+
+.i11 {
+    width: 30%;
+    height: 30%;
+}
+
+.i12 {
+    width: 30%;
+    height: 30%;
+}
+
+.i13 {
+    width: 30%;
+    height: 30%;
+}
+
+
+.i14 {
+    width: 30%;
+    height: 30%;
+}
+
+
+.i15 {
+    width: 30%;
+    height: 30%;
+}
+
+
+.i16 {
+    width: 30%;
+    height: 30%;
+}
+
+
+.i17 {
+    width: 30%;
+    height: 30%;
+}
+
+
+.i18 {
+    width: 91%;
+}
+
+.temizle {
+    clear: both;
+}
+
+.alt {
+    background-color: #003a36;
+    margin-top: 2%;
+}
+
+.buton {
+    background-color: #38645c;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    float: right;
+    margin-top: 10%;
+    margin-right: 45%;
+}
+
+.link a{
+    color: #12737d;
+
+}

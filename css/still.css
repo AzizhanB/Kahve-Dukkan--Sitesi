@@ -1,0 +1,221 @@
+.govde {
+    background-color: #f5f5f5;
+    margin: 0%;
+    padding: 0%;
+
+}
+
+.ust {
+    background-color: #003a36;
+    margin: 0%;
+    padding: 0%;    
+}
+
+.logo {
+    margin-top: 1%;
+    margin-left: 1%;
+    vertical-align: middle;
+}
+
+
+.l1 {
+    font-size: 20px;
+    padding-left: 1%;
+    vertical-align: middle;
+    padding-top: 1%;
+
+}
+
+.l2 {
+    font-size: 20px;
+    padding-left: 1%;
+    vertical-align: middle;
+
+}
+
+.l3 {
+    font-size: 20px;
+    padding-left: 1%;
+    vertical-align: middle;
+
+}
+
+.l4 {
+    font-size: 20px;
+    padding-left: 1%;
+    vertical-align: middle;
+}
+
+.l5 {
+    font-size: 20px;
+    padding-left: 1%;
+    vertical-align: middle;
+
+}
+
+.l6 {
+    font-size: 20px;
+    padding-left: 1%;
+    vertical-align: middle;
+}
+
+.giris {
+    width: 3%;
+    height: 3%;
+    float: right;
+    margin-top: -8%;
+    margin-right: 2%;
+    
+    
+}
+
+
+* {
+    box-sizing: border-box;
+}
+
+.example {
+   vertical-align: middle;
+    margin-top: 2%;
+    padding-top: 2%;
+    color: white;
+    padding-left: 1%;
+
+}
+
+form.example input[type=text] {
+    vertical-align: middle;
+    padding-left: 1%;
+    font-size: 17px;
+    border: 1px solid white;
+    width: 80%;
+    background: #38645c;
+    margin-left: 200%;
+    margin-top: -64%;
+    border-radius: 12px;
+}
+
+.i1 {
+    width: 100%;
+    height: 100%;
+}
+
+.i3 {
+    width: 20%;
+    height: 20%;
+    margin-left: 10%;
+}
+
+.i4 {
+    width: 20%;
+    height: 20%;
+}
+
+.i5 {
+    width: 20%;
+    height: 20%;
+}
+
+.i6 {
+    width: 20%;
+    height: 20%;
+}
+
+.i8 {
+    width: 40%;
+    height: 40%;
+    margin-left: 10%;
+    margin-top: 5%;
+}
+
+.i9 {
+    width: 40%;
+    height: 40%;
+}
+
+.i10 {
+    width: 20%;
+    height: 20%;
+    margin-left: 10%;
+}
+
+.i11 {
+    width: 20%;
+    height: 20%;
+}
+
+.i12 {
+    width: 20%;
+    height: 20%;
+}
+
+.i13 {
+    width: 20%;
+    height: 20%;
+}
+
+.i14 {
+    width: 40%;
+    height: 40%;
+    margin-left: 10%;
+    margin-top: 5%;
+}
+
+.i15 {
+   
+    margin-bottom: 15%;
+}
+
+.i16 {
+    margin-left: 10%;
+    margin-top: 5%;
+}
+
+.i17 {
+    margin-left: 10%;
+    width: 27%;
+    height: 27%;
+}
+
+.i18 {
+   
+    width: 27%;
+    height: 27%;
+}
+
+.i19 {
+    
+    width: 27%;
+    height: 27%;
+}
+
+.i20{
+    width: 100%;
+    height: 100%;
+    margin-top: 7%;
+}
+
+.alt {
+    background-color: #003a36;
+    margin-top: -2%;
+}
+
+.buton {
+    background-color: #38645c;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    float: right;
+    margin-top: 10%;
+    margin-right: 45%;
+}
+
+.link a{
+    color: #12737d;
+
+}
